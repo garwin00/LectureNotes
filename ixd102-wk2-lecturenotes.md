@@ -14,12 +14,12 @@ Caves to Kells -
        
 - Showcase of past students - Little Thunder/Roco&Miley/Lefft/Poppydotcom/JordanM/Alexandra Milne/David Henderson (weareDHD)/
        
--  A technique for producing ideas:
-- Gathering the Raw Material - gather as much as you can
-- Digesting the Material. - Work through it.
-- Unconscious Processing. - Subconscious is always processing material. 
-- The A-Ha moment. - Happens when you're least expcting it, keep a notebook nearby. 
-- Idea Meets Reality. - Get honest opinions from people who aren't designers. 
+* A technique for producing ideas:
+* Gathering the Raw Material - gather as much as you can
+* Digesting the Material. - Work through it.
+* Unconscious Processing. - Subconscious is always processing material. 
+* The A-Ha moment. - Happens when you're least expcting it, keep a notebook nearby. 
+* Idea Meets Reality. - Get honest opinions from people who aren't designers. 
                                         
 - Type Specimen Poster Project. 
 
