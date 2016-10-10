@@ -14,13 +14,12 @@ Caves to Kells -
        
 - Showcase of past students - Little Thunder/Roco&Miley/Lefft/Poppydotcom/JordanM/Alexandra Milne/David Henderson (weareDHD)/
        
--  A technique for producing ideas - 
-                                        
-    1 - Gathering the Raw Material - gather as much as you can
-    2 - Digesting the Material. - Work through it.
-    3 - Unconscious Processing. - Subconscious is always processing material. 
-    4 - The A-Ha moment. - Happens when you're least expcting it, keep a notebook nearby. 
-    5 - Idea Meets Reality. - Get honest opinions from people who aren't designers. 
+-  A technique for producing ideas:
+- Gathering the Raw Material - gather as much as you can
+- Digesting the Material. - Work through it.
+- Unconscious Processing. - Subconscious is always processing material. 
+- The A-Ha moment. - Happens when you're least expcting it, keep a notebook nearby. 
+- Idea Meets Reality. - Get honest opinions from people who aren't designers. 
                                         
 - Type Specimen Poster Project. 
 
@@ -37,8 +36,8 @@ Golden ration - 1.62 - modularscale.com - use body text as baseline.
 
 Writing systems. 
 
-- a is for ox - developing glyphs from egyption to greek
-- from cuneiform to papyrus to parchment 
+a is for ox - developing glyphs from egyption to greek
+Developed from cuneiform to papyrus to parchment 
 
 
 ## Type Specimen Poster
