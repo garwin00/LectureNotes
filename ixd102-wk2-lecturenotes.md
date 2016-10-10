@@ -15,6 +15,7 @@ Caves to Kells -
 - Showcase of past students - Little Thunder/Roco&Miley/Lefft/Poppydotcom/JordanM/Alexandra Milne/David Henderson (weareDHD)/
        
 * A technique for producing ideas:
+              
               * Gathering the Raw Material - gather as much as you can
               * Digesting the Material. - Work through it.
               * Unconscious Processing. - Subconscious is always processing material. 
