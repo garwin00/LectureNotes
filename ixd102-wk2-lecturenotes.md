@@ -38,6 +38,7 @@ Golden ration - 1.62 - modularscale.com - use body text as baseline.
 Writing systems. 
 
 a is for ox - developing glyphs from egyption to greek
+
 Developed from cuneiform to papyrus to parchment 
 
 
