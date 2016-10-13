@@ -26,7 +26,7 @@ Caves to Kells -
 
 Context - Mans first marking on cave walls to future UI design. 
         
-Prehistorc graffitti.
+Prehistoric graffitti.
 
 - Panel of hands - nearby red disk dated 40800 years. 
 - dot becomes line becomes plane becomes complex shapes. 
