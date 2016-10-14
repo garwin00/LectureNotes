@@ -18,7 +18,7 @@ Development of written word. Trajan > Times & everything in between.
 
 Islur script 600-850ad - one of the first forms. 
 
-Lindafarse Gospels. 
+Lindafarne Gospels. 
 
 Blackletter around 1100ad - angular and straight meaning easily laid out. 
 
