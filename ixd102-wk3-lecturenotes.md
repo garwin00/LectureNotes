@@ -17,8 +17,11 @@ Show tumblr & sketches!
 Development of written word. Trajan > Times & everything in between. 
 
 Islur script 600-850ad - one of the first forms. 
-Lindafarme Gospel. 
-Blackletter around 1100ad - angular and straight - easily laid out. 
+
+Lindafarse Gospels. 
+
+Blackletter around 1100ad - angular and straight meaning easily laid out. 
+
 Illuminated aspects, one bible taking a year to produce, the church being the keepers of knowledge. 
 
 ## Type is the clothing for words. 
@@ -29,7 +32,7 @@ Typestyles give the impression of what to expect.
 
 Invented by Chinese - Third century. Carving in jade or stone. Early form of relief printing. 
 
-Oringinated as metal type. around 1020s AD
+Oringinated as metal type - around 1020s AD
 
 ### Johannes Gutenberg 1395-1468 - Gutenberg Bible
 
@@ -42,7 +45,7 @@ Church thought that mass production could strengthen their hold on people. The p
 Printers marks - early forms of branding similar to stone mason marks. 
 
 Minding Ps and Qs - beside eachother in drawers.
-Upercase letters come from upperdrawers, vice versa
+Upercase letters come from upperhalf of case, same with lowercae
 
 ### Albrecht Durer - 1471 - 1528 - better known as an artist. 
 
@@ -54,7 +57,7 @@ Belived that Germa artists were inferior to Italian
 
 Produced a book looking for refined typography. 
 
-## the Printed word.
+## The Printed Word.
 
 Nicolas Jenson - 1420-1480 Pioneer printer and type designer. 
 
@@ -89,7 +92,7 @@ Erik Spiekermann - German type Designer - Very Contemporary
 
 Jessica Hische - Not a type designer but worth looking at. Started Daily Drop Cap.
 
-Marian Bantjes - Canadian type designer - very docorative - both pattern and type. 
+Marian Bantjes - Canadian type designer very decorative - Work with both pattern and type. 
 
 SI Scott - art neuveau works by hand 
 
