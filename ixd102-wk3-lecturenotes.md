@@ -65,7 +65,7 @@ Claude Garamond - 1490-1561
 
 As time went on designers were able to do more with better technology. Added more character to typography. 
 
-Francesco Griffo - Venetian Punch Cutter - 1450-1518 FIrst Italic Typefaces & Bembo. 
+Francesco Griffo - Venetian Punch Cutter - 1450-1518 First Italic Typefaces & Bembo. 
 
 William Caslon - 1693-1766 - Printed Declaration of Indepence. 
 
