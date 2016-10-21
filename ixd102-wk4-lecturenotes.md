@@ -100,7 +100,7 @@ Use of distortion and exaggeration for emotional effect. Intense colour and agit
 **Peter Behrens**, First true graphic designer, Came through Vienna secession developed own branch. Became industrial designer. 1908 with AEG brand letter forms are still the same today. Developed typefaces too.
 
 # Design History Poster.
-Design Poster baed on ONE of the following titles.
+Design Poster based on ONE of the following titles.
 
   - Bauhaus and the New Typography
   - Design Systems for the Olympic Games
