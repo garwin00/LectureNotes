@@ -7,7 +7,7 @@ Big change in technology, changed the world forever.
 
 ## Photography
 
-Joseph Niepce, View from the window at La gras 1826/1827
+Joseph Niepce, View From the Window at La Gras 1826/1827
 
 Louis Daguerre, Boulevard du Temple 1838
 
