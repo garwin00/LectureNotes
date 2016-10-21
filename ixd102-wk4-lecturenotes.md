@@ -1,6 +1,6 @@
 # A Century of Change.
 
-// Can that one dude get off of Omegle please?
+Can that one dude get off of Omegle please? Also please no shouting random stuff. 
 
 Starting at the turn of the century.
 Big change in technology, changed the world forever.
