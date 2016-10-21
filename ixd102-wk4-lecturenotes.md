@@ -8,19 +8,23 @@ Big change in technology, changed the world forever.
 ## Photography
 
 Joseph Niepce, View from the window at La gras 1826/1827
+
 Louis Daguerre, Boulevard du Temple 1838
+
 Mathew Brady, 1822 - 1896, Portraits of Celebrities/Civil War(Father of Journalism)
 
 ## Moving Pictures
 
 Dated back to cave paintings telling a story.
+
 Thaumatrope to Zoetrope etc.
 
 Eadweard Muybridge, 1830 - 1904, The Horse in Motion
+
 Lumiere Brothers, 1895, The Waterer Watered
 
 
-#The Industrial Revolution changes everything.
+# The Industrial Revolution changes everything.
 
 Lots of printed material.
 
