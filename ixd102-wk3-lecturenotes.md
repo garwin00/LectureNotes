@@ -86,7 +86,7 @@ Vincent Figgins - 1766-1844 - First Slab Serif - Part of Monotype.
 Eric Gill - not a nice guy. Ironically his work based on Bible. produced four gospels. 
 Also a scuptor. Most famous typeface - Gill Sans 
 
-Max Medinger - Helvetica - takes Akzidenz and improves on it. 
+Max Miedinger - Helvetica - takes Akzidenz and improves on it. 
 
 Erik Spiekermann - German type Designer - Very Contemporary 
 
