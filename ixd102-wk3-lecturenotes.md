@@ -22,7 +22,7 @@ Lindisfarne Gospels.
 
 Blackletter around 1100ad - angular and straight meaning easily laid out. 
 
-Illuminated aspects, one bible taking a year to produce, the church being the keepers of knowledge. 
+Illuminated aspects / gold leaf, one bible taking a year to produce, the church being the keepers of knowledge. 
 
 ## Type is the clothing for words. 
 
