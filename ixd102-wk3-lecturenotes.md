@@ -28,7 +28,7 @@ Illuminated aspects, one bible taking a year to produce, the church being the ke
 
 Typestyles give the impression of what to expect. 
 
-## The dicovery of Printing
+## The Discovery of Printing
 
 Invented by Chinese - Third century. Carving in jade or stone. Early form of relief printing. 
 
