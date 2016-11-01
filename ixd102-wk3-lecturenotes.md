@@ -94,7 +94,7 @@ Jessica Hische - Not a type designer but worth looking at. Started Daily Drop Ca
 
 Marian Bantjes - Canadian type designer very decorative - Work with both pattern and type. 
 
-SI Scott - art neuveau works by hand 
+SI Scott - Art Nouveau works by hand 
 
 Stefan Sagmeister - took type into real world. Some are bizarre. 
 
