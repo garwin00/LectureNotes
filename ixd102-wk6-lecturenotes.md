@@ -2,7 +2,7 @@
 
 WHAT IS GOING ON RIGHT NOW?
 
-Apparently this ties in with stuff coming soon, here's hoping. 
+Apparently this ties in with stuff coming soon, here's hoping.
 
 
 ### Check out ilovetypography.com - JMB article
@@ -166,14 +166,21 @@ Last living member of bauhaus. Both student and teacher there. Taught painting, 
 
 In 1928 Gropius resigned. and Nazis cancelled all their contracts in 1931, so they had no money. many artists fled Germany for America.
 
-### Project 3
+# Project 3
 
 Design Essay. NO less than 1500 words on one of the following designers.
 
-- Jan Tschihold
+- Jan Tschichold
 - Paul Rand
 - Saul Bass
 - Massimo Vignelli
-- JMB
+- Josef Müller Brockmann
+- Neville Brody
+- Paula Scher
+- Wolfgang Weingart
+- Stefan Sagmeister
+- Erik Spiekermann
+- Marian Bantjes
+- Jessica Hische
 
-get rest of names from Github.
+# Deadline 6th January
