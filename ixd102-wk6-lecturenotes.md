@@ -1,8 +1,6 @@
-# New Order - True Faith
+#WHAT IS GOING ON RIGHT NOW?
 
-WHAT IS GOING ON RIGHT NOW?
-
-Apparently this ties in with stuff coming soon, here's hoping.
+Apparently this music video ties in with stuff coming soon, here's hoping.
 
 
 ### Check out ilovetypography.com - JMB article
@@ -24,7 +22,7 @@ juxtaposed with JMB - really just getting the message out with blunt terms.
 
 # Revolution and the Bauhaus
 
-WW1 and it's effect on the world, people had to move on from it.
+WW1 and its effect on the world, people had to move on from it.
 
 Artists and designers had to try to make sense of it, De Stijl was the response.
 
