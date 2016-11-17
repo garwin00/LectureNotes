@@ -28,15 +28,15 @@ Artists and designers had to try to make sense of it, De Stijl was the response.
 
 Reductive geometric could not be identified as any one nation so was most suitable.
 
-Founded By Theo Van Doesburg.
+Founded By **Theo Van Doesburg.**
 
 ## Piet Mondrian
 
- One of the key figures in the movement.
+One of the key figures in the movement.
 
- Dropped the a from his name and influenced by the cubist movement.
+Dropped the a from his name and was influenced by the cubist movement.
 
- Returned to France after war ended.
+He returned to France after war ended.
 
 ## Theo Van Doesburg
 
@@ -56,7 +56,7 @@ Looked at relationships with geometric forms.
 
 Tried to escape realism - looking at art in purest form. It's a black square. Come on lads.
 
-Playing to the gallery - Greyson Perry, read it.
+*Playing to the gallery - Greyson Perry* - read it.
 
 ## EL Lissitzky
 
@@ -64,7 +64,7 @@ Painter, architect and designer.
 
 Illustrated Jewish Children's books.
 
-'beat the whites with the red wedge'
+'Beat the whites with the red wedge'
 Propaganda.
 
 Looked at how architecture and painting could work together - how space and form work together.
@@ -88,13 +88,13 @@ Painter, sculptor, graphic artist, designer, teacher and photographer.
 
 # Bauhaus
 
-Literally means house of construction.
+Literally means *house of construction*.
 
-Founded by Walter Gropius, with idea of total school for art & design.
+Founded by **Walter Gropius**, with idea of total school for art & design.
 
 Had massive influence on design.
 
-Worked with master apprentice style.
+Worked with master/apprentice style.
 
 Focusing on craftsmanship.
 
@@ -102,7 +102,7 @@ Rise of Hitler drove him out of Germany.
 
 ## Lyonel Feiniger
 
-Made aware of movements by van Doesburg.
+Made aware of movements by Van Doesburg.
 
 Designed cover for Bauhaus Manifesto.
 
@@ -162,7 +162,11 @@ Architect, interior designer etc.
 
 Last living member of bauhaus. Both student and teacher there. Taught painting, sculpture and typography.
 
-In 1928 Gropius resigned. and Nazis cancelled all their contracts in 1931, so they had no money. many artists fled Germany for America.
+* * * 
+
+In 1928 Gropius resigned and Nazis cancelled all their contracts in 1931, so they had no money. Many artists fled Germany for America.
+
+* * * 
 
 # Project 3
 
@@ -180,5 +184,7 @@ Design Essay. NO less than 1500 words on one of the following designers.
 - Erik Spiekermann
 - Marian Bantjes
 - Jessica Hische
+
+* * * 
 
 # Deadline 6th January
