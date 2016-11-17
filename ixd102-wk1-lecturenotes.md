@@ -1,12 +1,12 @@
 Intro To Communication Design - Week 1
 ======================================
 
-Gaining a solid knowledge of Design history.
+This module = gaining a solid knowledge of design history.
 
 General Notes
 -------------
 
-+ Johnathan Ive - Turned Apple around, inspired by Dieter Rams.
++ Jony Ive - Turned Apple around, inspired by Dieter Rams.
 + Don't be afraid to make mistakes. 
 + Flat design isn't a new thing. 
 
