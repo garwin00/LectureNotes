@@ -3,7 +3,7 @@
 Companies saw a need to promote their good much more professionally
 Around 1950s - Stemmed from Post-war Dada, De Stijl, Constructivism
 
-## Jan Tschichold 1902-1974
+## Jan Tschichold 1902 - 1974
 
 Wrote The New Typography, Condemned everything but sans-serif.
 
