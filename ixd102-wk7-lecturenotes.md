@@ -1,15 +1,15 @@
 # The International Typographic Style
 
-Companies saw a need to promote their good much more professionally
-Around 1950s - Stemmed from Post-war Dada, De Stijl, Constructivism
+Companies saw a need to promote their goods much more professionally around 1950s - Stemmed from Post-war Dada, De Stijl, 
+Constructivism
 
 ## Jan Tschichold 1902 - 1974
 
-Wrote The New Typography, Condemned everything but sans-serif.
+Wrote "The New Typography", Condemned everything but sans-serif.
 
 Joined Circle of New Advertising Designers
 
-### Rules
+### His Rules
 
 - Asymmetric Balance of Elements.
 - Content Designed by hierarchy.  (Jeffrey Zeldman - Web Design Manifesto)
@@ -26,11 +26,11 @@ Teacher and typographer.
 
 Illustrative approach, quite comic in some instances. Japanese woodblock?
 
-## Josef Muller-Brockmann
+## Josef Muller-Brockmann 1914 - 1996
 
 Illustrator who converted to Swiss aesthetic.
 
-Limited colour pallettes, consistant style.
+Limited colour palettes with a consistant style.
 
 Best known for theatre and music posters @ Zurich Town Hall.
 
@@ -38,11 +38,11 @@ Published several books and was teaching until early 90s.
 
 ## Adrian Frutiger 1928 - 2015
 
-Hugely influential. Frutiger, Avenir, Univers etc.
+Hugely influential. Created Frutiger, Avenir, Univers etc.
 
-Studied at Zurich school of applied art, developed Swiss style.
+Studied at Zurich School of Applied Art, developed the Swiss style.
 
-Considered Avenir "pinnacle of his work".
+Considered Avenir the "pinnacle of his work".
 
 ## Emil Ruder 1914 - 1970
 
