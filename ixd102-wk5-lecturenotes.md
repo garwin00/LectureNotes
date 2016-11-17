@@ -4,49 +4,47 @@
 
 Led by Picasso initially, had a keen interest in African art.
 
-Cezanne (sp) influenced by ______ breaking into planes.
+Cezanne influenced by work being broken into planes.
 
-They brought in what they were seeing around them into posters.
+They brought what they were seeing around them into posters.
 
 Geometric and graphic in approach.
 
-Roy Lichtenstein influenced by comic books.
+**Roy Lichtenstein** - influenced by comic books.
 
-David Hockney taking idea of cubism and applying to photographs.
+**David Hockney** - takes the idea of cubism and takes it into photographs.
 
 ## Plakatstil
 
 Art Nouveau in full flow, people expected to see that but this was shockingly bold.
 
-Lucien Bernhard, 1883 - 1972.
+**Lucien Bernhard** 1883 - 1972.
 
-Known as poster style.
+Known as "poster style". It's very simple and minimal. Flat design and approach. No flowers and decorative elements, just straight to the point.
 
-Very simple and minimal. Flat design and approach. NO flowers and decorative elements, just straight to the point.
+He also designed typefaces.
 
-Bernhard also designed typefaces.
-
-Hans Rudi Aart (sp?) contributed to the movement that Bernhard started.
+Hans Rudi Erdt contributed to the movement that Bernhard started.
 
 ### Contemporary Approaches
 
 Flat, minimal style and colours. Apple used it for first iPod campaign.
 
-Albert Extregen (sp) series of reduced TV posters.
+**Albert Exergian** - series of reduced TV posters.
 
 ## WW1
 
-Trying to get people to sign up to get involved in the war process.
+Posters were trying to get people to sign up to get involved in the war process.
 
 Germans placed particular emphasis on atrocities committed.  
 
-Propaganda was very successful.
+Propaganda was *very* successful.
 
 ### Contemporary Approaches
 
-Playing on that link to the past - still has an effect today.
+Playing on that link to the past, it still has an effect today.
 
-Marko Manev - Designer from Macedonia.
+**Marko Manev** - Designer from Macedonia.
 
 ## Futurism
 
@@ -60,35 +58,35 @@ Paula Scher.
 
 ## Dada period, Anti-art
 
-Duchant (sp) - Took found object and repurposed them. The question of "what is art?"
+**Duchant** - Took found objects and repurposed them. Posed the question of "what is art?"
 
-Picasso - Bull's head.
+**Picasso** - Bull's head.
 
-Hannah Hawk - using found items for photo montage.
+**Hannah Hawk** - using found items for photo montages.
 
-Greyson Perry - understanding art.
+**Greyson Perry** - understanding art book.
 
-Raoul Housman (sp) - Photo Collages and montages
+**Raoul Hausmann** - Photo collages and montages
 
-Kurt Schwitters, 1887 - 1949, Bus tickets and card applied to his work. Published Merz, looking at artists.
+**Kurt Schwitters**, 1887 - 1949, Bus tickets and cards applied to his work. Published "Merz", looking at artists.
 
 ### Contemporary Approaches
 
-Jamie Reeve - "Anti-design."
+**Jamie Reeve** - "Anti-design"
 
 ## Surrealism
 
-Max Ernst - took elements and juxtaposed them. What would the subconscious create?
+**Max Ernst** - took elements and juxtaposed them. Asked question - "What would the subconscious create?"
 
-Salvadore Dali - "Persistence of Memory", "The Temptation of St Anthony". Influenced Hitchcock's Vertigo.
+**Salvadore Dali** - "Persistence of Memory" & "The Temptation of St Anthony". (Influenced Hitchcock's Vertigo.)
 
-Juan Meero (sp) - "Surreal Creatures".
+**Juan Miro** - "Surreal Creatures".
 
-Terry Gilliam - Monty Python.
+**Terry Gilliam** - Monty Python.
 
 ## Art Deco - Moving past the War
 
-First period in France post-war.
+Came during first period in post-war France. 
 
 Combined post-war craft motifs with machinery to marry them together.
 
@@ -96,22 +94,21 @@ Carried into Advertising. Very Graphic.
 
 ## Edward Johnston
 
-British Craftsman, Calligrapher - famous for Johnston sans serif. Developed Roundel for London Underground & general underground branding.
+British Craftsman, Calligrapher - famous for Johnston sans-serif. Developed Roundel for London Underground & general underground branding.
 
-Eric Gill, Gill Sans - Student of Johnston
+Eric Gill was a student of Johnston.
 
 ### Underground
 
-First maps complex.
+First maps complex and people couldn't use them
 
-Harry Beck, Engineering Draftsman, simplified underground map. 1933.
+**Harry Beck**, Engineering Draftsman, simplified underground map in 1933.
 
 ### Around the World
+ 
+Look at:
 
- Moscow
-
- New York
-
- Paris
-
- Washington
+- Moscow
+- New York
+- Paris
+- Washington
