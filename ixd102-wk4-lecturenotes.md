@@ -1,9 +1,6 @@
 # A Century of Change.
 
-Can that one dude get off of Omegle please? Also please no shouting random stuff. 
-
-Starting at the turn of the century.
-Big change in technology, changed the world forever.
+Starting at the turn of the century there was a big change in technology, changed the world forever.
 
 ## Photography
 
@@ -42,8 +39,10 @@ Focus moved from rural base to industrial.
 
 Late 19th century, craze for Japanese art.
 
-**Gustave Courbet** The Meeting, 1854 (those beards though!)
-**The Great wave Off Kanagawa**, 1829-1832 by Katsushika Hokusai
+**Gustave Courbet** The Meeting, 1854
+
+**The Great wave Off Kanagawa**, 1829 - 1832 by Katsushika Hokusai
+
 **Kitagawa Utamaro**, 1753
 
 **Claude Monet**, 1840 - 1926 (impressionist started to emulate Japanese Style just getting the impression of things.)
@@ -83,7 +82,7 @@ Art Nouveau / Celtic / Japanese styles.
 
 ## Vienna Secession
 
- Collection of artists, sculptors & designers.
+Collection of artists, sculptors & designers.
 
 **Gustav Klimt**, 1862-1918, Paintings with gold leaf, Painting for Beethoven Exhibition
 
@@ -99,6 +98,8 @@ Use of distortion and exaggeration for emotional effect. Intense colour and agit
 
 **Peter Behrens**, First true graphic designer, Came through Vienna secession developed own branch. Became industrial designer. 1908 with AEG brand letter forms are still the same today. Developed typefaces too.
 
+* * * 
+
 # Design History Poster.
 Design Poster based on ONE of the following titles.
 
@@ -108,5 +109,3 @@ Design Poster based on ONE of the following titles.
   - The Modern Movement in America
   - Pioneers of Postmodern Graphic Design
   - Pioneers of Digital Design
-
- a3 420mm x 297mm
