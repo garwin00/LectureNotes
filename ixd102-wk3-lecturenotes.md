@@ -18,7 +18,7 @@ Development of written word. Trajan > Times & everything in between.
 
 Islur script 600-850ad - one of the first forms. 
 
-Lindisfarne Gospels. 
+**Lindisfarne Gospels** 
 
 Blackletter around 1100ad - angular and straight meaning easily laid out. 
 
@@ -36,67 +36,71 @@ Oringinated as metal type - around 1020s AD
 
 ### Johannes Gutenberg 1395-1468 - Gutenberg Bible
 
-a "Revisionary Inventor" - metal type put monks out of business. 
+A "Revisionary Inventor" - metal type put monks out of business. 
 
-More accessable to more people, not just the church/monks. 
+Making Bible & religion more accessable to more people, not just the church/monks. 
 
 Church thought that mass production could strengthen their hold on people. The power undermined the strength. 
 
 Printers marks - early forms of branding similar to stone mason marks. 
 
-Minding Ps and Qs - beside eachother in drawers.
-Upercase letters come from upperhalf of case, same with lowercae
+Minding Ps and Qs - they were beside eachother in the drawers.
 
-### Albrecht Durer - 1471 - 1528 - better known as an artist. 
+Uppercase letters come from upperhalf of case, same with lowercae
+
+### Albrecht Durer - 1471 - 1528 
+Better known as an artist. 
 
 One of the first international artists. Developed a monogram - saw importance of branding himself. 
 
-Produced Latin and German version of apocalypse
+Produced Latin and German version of "Apocalypse"
 
-Belived that Germa artists were inferior to Italian
+Belived that German artists were inferior to Italian
 
 Produced a book looking for refined typography. 
 
 ## The Printed Word.
 
-Nicolas Jenson - 1420-1480 Pioneer printer and type designer. 
+**Nicolas Jenson** - 1420 - 1480 - Pioneer printer and type designer. 
 
-Claude Garamond - 1490-1561
+**Claude Garamond** - 1490 - 1561
 
-As time went on designers were able to do more with better technology. Added more character to typography. 
+As time went on designers were able to do more with better technology, adding more character to typography. 
 
-Francesco Griffo - Venetian Punch Cutter - 1450-1518 First Italic Typefaces & Bembo. 
+**Francesco Griffo** (Venetian Punch Cutter) - 1450 - 1518 First Italic Typefaces & Bembo. 
 
-William Caslon - 1693-1766 - Printed Declaration of Indepence. 
+**William Caslon** - 1693 - 1766 - Printed Declaration of Indepence. 
 
-John Baserville - 1706-1775 - intent ws to improve what Caslon had done. 
+**John Baserville** - 1706-1775 - His intent was to improve what Caslon had done. 
 
-Giambattista Bodoni - 1740 - 1813 - real first refined typeface. 
+**Giambattista Bodoni** - 1740 - 1813 - Bodoni, the real first refined typeface. 
 
-Akzidenz-Grotesk - 1896
+**Akzidenz-Grotesk** - Iconic sans-serif typeface - 1896
 
 ## Industrialisation
 
-Technology didnt change much from gutenberg to 19th century.
+Technology didnt change much from Gutenberg to the 19th century.
 
-Vincent Figgins - 1766-1844 - First Slab Serif - Part of Monotype. 
+**Vincent Figgins** - 1766 - 1844 - First Slab Serif - Part of Monotype. 
 
 ## Who is doing what 
 
-Eric Gill - not a nice guy. Ironically his work based on Bible. produced four gospels. 
-Also a scuptor. Most famous typeface - Gill Sans 
+**Eric Gill** - not a nice guy. Ironically his work based on Bible. Produced four gospels. 
+Also a scuptor. Most famous typeface - "Gill Sans". 
 
-Max Miedinger - Helvetica - takes Akzidenz and improves on it. 
+**Max Miedinger** - Helvetica - takes Akzidenz and improves on it. 
 
-Erik Spiekermann - German type Designer - Very Contemporary 
+**Erik Spiekermann** - German type Designer - Very Contemporary works.
 
-Jessica Hische - Not a type designer but worth looking at. Started Daily Drop Cap.
+**Jessica Hische** - Not a type designer but worth looking at. Started "Daily Drop Cap".
 
-Marian Bantjes - Canadian type designer very decorative - Work with both pattern and type. 
+**Marian Bantjes** - Canadian type designer, very decorative - Work with both pattern and type. 
 
-SI Scott - Art Nouveau works by hand 
+**SI Scott** - Awesome Art Nouveau works by hand 
 
-Stefan Sagmeister - took type into real world. Some are bizarre. 
+**Stefan Sagmeister** - took type into real world. Some are pretty bizarre. 
+
+* * *
 
 ## Further Reading: 
 
