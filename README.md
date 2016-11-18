@@ -17,4 +17,4 @@ These are just brief notes, for full information make sure to check out [the off
 
 * * * 
 
-<small>If you notice any errors, please let me know!</small>
+If you notice any errors, please let me know!
