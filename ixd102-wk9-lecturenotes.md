@@ -1,4 +1,4 @@
-## Wim Crouwel 1928 - ??
+## Wim Crouwel 1928 
 
 Formed Total Design.
 
