@@ -86,7 +86,7 @@ Taking art into the public domain.
 
 ## Tim Berners-Lee
 
-*The web changed everything*
+**The web changed everything**
 
 The web was responsive but designers broke it.
 
@@ -96,4 +96,4 @@ Designer and Movie Maker - Used Flash. (So he's to blame...)
 
 One of the top ten web designers - 2000/2001
 
-**Things had to change...**
+*Things had to change...*
