@@ -40,3 +40,6 @@ consider narratives, transitions and stories when Designing
 - Josef Müller-Brockmann’s Grid Systems
 - Khoi Vinh’s Ordering Disorder
 - Ethan Marcotte Responsive Web Design
+=======
+# HOORAY FOR MISSING WEEKS. THIS SHOULD BE FILLED SOON
+>>>>>>> origin/master

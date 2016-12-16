@@ -12,10 +12,12 @@ Notes from Friday morning IxD102 lectures. Feel free to use as needed.
 - [Week 8](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk8-lecturenotes.md)
 - [Week 9](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk9-lecturenotes.md)
 - [Week 10](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk10-lecturenotes.md)
+- [Week 11](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk11-lecturenotes.md)
+- [Week 12](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk12-lecturenotes.md)
 
 * * * 
 
-These are just brief notes, for full information make sure to check out [the official notes.](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/0905239cc4ed4b2ea2f6ead2431e7cab8d3ad130/modules/IXD102/IXD102.md)
+These are just brief notes, for full information make sure to check out [the official notes.](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD102/IXD102.md)
 
 * * * 
 
