@@ -2,7 +2,7 @@
 
 ## Stefan Sagmeister
 
-Dude is crazy. (Full disclosure, wasn't here for this, just going from what I know.)
+Dude is crazy. (Full disclosure, wasn't here for this, just going from what I know. Video has been added to my to watch list)
 
 ## Proportions
 
