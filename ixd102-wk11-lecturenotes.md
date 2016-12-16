@@ -8,7 +8,10 @@ Dude is crazy. (Full disclosure, wasn't here for this, just going from what I kn
 
 The Web is fluid.
 
-Sir Christopher Wren (1632 - 1723) an architecht who designed St Pauls used maths when laying things out
+### Sir Christopher Wren (1632 - 1723) 
+architech - designed St Pauls 
+
+Used maths when laying things out
 
 Golden section & rule of thirds
 
