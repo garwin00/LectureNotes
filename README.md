@@ -12,6 +12,8 @@ Notes from Friday morning IxD102 lectures. Feel free to use as needed.
 - [Week 8](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk8-lecturenotes.md)
 - [Week 9](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk9-lecturenotes.md)
 - [Week 10](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk10-lecturenotes.md)
+- [Week 11](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk11-lecturenotes.md)
+- [Week 12](https://github.com/garwin00/LectureNotes/blob/master/ixd102-wk12-lecturenotes.md)
 
 * * * 
 
