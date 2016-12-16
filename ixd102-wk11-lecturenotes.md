@@ -36,7 +36,7 @@ What we do is storytelling
 
 consider narratives, transitions and stories when Designing
 
-### To read
+### To read:
 - Josef Müller-Brockmann’s Grid Systems
 - Khoi Vinh’s Ordering Disorder
 - Ethan Marcotte Responsive Web Design
